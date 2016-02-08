@@ -44,6 +44,5 @@ C:\dev\Projects\Satuit\MvcApplication1\MvcApplication1\bin\DotNetOpenAuth.OAuth.
 C:\dev\Projects\Satuit\MvcApplication1\MvcApplication1\bin\DotNetOpenAuth.OAuth.xml
 C:\dev\Projects\Satuit\MvcApplication1\MvcApplication1\bin\DotNetOpenAuth.OpenId.xml
 C:\dev\Projects\Satuit\MvcApplication1\MvcApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
-C:\dev\Projects\Satuit\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
 C:\dev\Projects\Satuit\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
 C:\dev\Projects\Satuit\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
