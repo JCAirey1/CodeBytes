@@ -46,3 +46,6 @@ C:\dev\Projects\Satuit\MvcApplication1\MvcApplication1\bin\DotNetOpenAuth.OpenId
 C:\dev\Projects\Satuit\MvcApplication1\MvcApplication1\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
 C:\dev\Projects\Satuit\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.dll
 C:\dev\Projects\Satuit\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.pdb
+C:\dev\Projects\Satuit\MvcApplication1\MvcApplication1\obj\Debug\MvcApplication1.csprojResolveAssemblyReference.cache
+C:\dev\Projects\Satuit\MvcApplication1\MvcApplication1\bin\Elmah.dll
+C:\dev\Projects\Satuit\MvcApplication1\MvcApplication1\bin\Elmah.Mvc.dll

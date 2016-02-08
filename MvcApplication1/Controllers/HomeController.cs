@@ -17,6 +17,7 @@ namespace MvcApplication1.Controllers
 
         public ActionResult About()
         {
+            throw new Exception();
             ViewBag.Message = "Your app description page.";
 
             return View();
